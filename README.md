@@ -34,7 +34,7 @@ Hi, I'm Jitpanu Nopwijit or you can call me "Teen". Now I'm a Software and Knowl
 
 ## Contract me:
 [![Facebook](http://img.shields.io/badge/-Facebook-3B5998?style=flat&logo=facebook&logoColor=white)][facebook]
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)[linkedin]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)][linkedin]
 
 
 [facebook]: https://www.facebook.com/kufu.shino

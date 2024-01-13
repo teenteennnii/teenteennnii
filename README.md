@@ -30,6 +30,11 @@ Hi, I'm Jitpanu Nopwijit or you can call me "Teen". Now I'm a Software and Knowl
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
+[![SWI-Prolog](https://img.shields.io/badge/SWI%20Prolog-%23FF2D20.svg?style=flat&logo=swi-prolog&logoColor=white)][SWI-Prolog] 
+[![PROTÉGÉ](https://img.shields.io/badge/PROTÉGÉ-%238511FA.svg?style=flat&logo=protege&logoColor=white)][PROTÉGÉ]
+
+[SWI-Prolog]: https://www.swi-prolog.org/
+[PROTÉGÉ]: https://protege.stanford.edu/
 
 
 ## Contract me:

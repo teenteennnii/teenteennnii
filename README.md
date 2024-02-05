@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jitpanu Nopwijit</h1>
-
+<a align="center">Hi, I'm Jitpanu Nopwijit or you can call me "Teen". Now I'm a Software and Knowledge Engineer at Kasetsart University and interest in DevOps field.</a>
 <div align="center">
-    <a align="left">Hi, I'm Jitpanu Nopwijit or you can call me "Teen". Now I'm a Software and Knowledge Engineer at Kasetsart University and interest in DevOps field.</a>
-    <img alt="CodingCat" align="right" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" style="display:block;margin:auto;">
+    <img alt="CodingCat" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" style="display:block;margin:auto;">
 </div>
 
 <h3 align="left">Connect with me:</h3>
